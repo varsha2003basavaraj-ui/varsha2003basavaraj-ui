@@ -35,7 +35,7 @@ https://github.com/varsha2003basavaraj-ui/student-habits-performance-analysis
 - Dashboard available in `.pbix`, PDF, and screenshots format  
 
 🔗 Repository:  
-https://github.com/varsha2003basavaraj-ui
+https://github.com/varsha2003basavaraj-ui/retail-supply-chain-power-bi-dashboard
 
 ---
 
@@ -45,7 +45,7 @@ https://github.com/varsha2003basavaraj-ui
 - Performed sales, customer, product, inventory, and profit analysis using SQL queries  
 
 🔗 Repository:  
-https://github.com/varsha2003basavaraj-ui
+https://github.com/varsha2003basavaraj-ui/retail-supply-chain-fmcg-sql-analysis
 
 ---
 
