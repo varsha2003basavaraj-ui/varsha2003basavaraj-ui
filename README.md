@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varsha
 
-🎓 Aspiring **Data Analyst** with hands-on experience in **Excel, SQL, and Power BI**  
+🎓 Aspiring **Data Analyst** with hands-on learning in **Excel, SQL, and Power BI**  
 📊 Passionate about transforming raw data into **clear insights, dashboards, and business-ready reports**  
 🌱 Actively building real-world analytics projects to strengthen my technical and analytical skills
 
